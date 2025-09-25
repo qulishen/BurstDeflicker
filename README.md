@@ -79,3 +79,17 @@ python test.py --input dataset/test/input --output result/restormer --model_path
 ```bash
 python evaluate.py --input result/restormer --gt dataset/test/gt
 ```
+
+## Citation
+
+If you find this work useful, please cite:
+
+```bibtex
+@inproceedings{qu2025flarex,
+  title={BurstDeflicker: A Benchmark Dataset for Flicker Removal in Dynamic Scenes},
+  author={Lishen Qu, Zhihao Liu, Shihao Zhou, Yaqi Luo, Jie Liang, Hui Zeng, Lei Zhang, Jufeng Yang},
+  booktitle={Advances in Neural Information Processing Systems (NeurIPS)},
+  year={2025}
+}
+```
+---
