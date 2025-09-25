@@ -85,11 +85,11 @@ python evaluate.py --input result/restormer --gt dataset/test/gt
 If you find this work useful, please cite:
 
 ```bibtex
-@inproceedings{qu2025flarex,
-  title={BurstDeflicker: A Benchmark Dataset for Flicker Removal in Dynamic Scenes},
-  author={Lishen Qu, Zhihao Liu, Shihao Zhou, Yaqi Luo, Jie Liang, Hui Zeng, Lei Zhang, Jufeng Yang},
-  booktitle={Advances in Neural Information Processing Systems (NeurIPS)},
-  year={2025}
+@inproceedings{BurstDeflicker_lishenqu,
+    title={BurstDeflicker: A Benchmark Dataset for Flicker Removal in Dynamic Scenes},
+    author={Lishen, Qu and Zhihao, Liu and Yaqi, Luo and Shihao, Zhou and Hui, Zeng and Lei, Zhang and Jie, Liang and Jufeng, Yang},
+    booktitle={Advances in Neural Information Processing Systems},
+    year={2025}
 }
 ```
 ---
