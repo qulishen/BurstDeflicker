@@ -2,6 +2,11 @@
 
 [![Paper](https://img.shields.io/badge/Paper-NeurIPS%202025-blue)](https://arxiv.org/abs/2510.0996)  
 [![Dataset](https://img.shields.io/badge/Dataset-Kaggle-green)](https://www.kaggle.com/datasets/lishenqu/flarex)
+[![visitors](https://visitor-badge.laobi.icu/badge?page_id=qulishen.BurstDeflicker&right_color=violet)](https://github.com/libozhu03/RIFLE)
+<!-- [![GitHub Stars](https://img.shields.io/github/stars/qulishen/BurstDeflicker?style=social)](https://github.com/qulishen/BurstDeflicker) -->
+<p align="center">
+  <img src="logo.png" width="1000px"> 
+</p>
 
 This repository contains the official implementation of our NeurIPS 2025 paper:  
 <p>
