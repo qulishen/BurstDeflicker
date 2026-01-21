@@ -65,14 +65,7 @@ This repository contains the official implementation of our NeurIPS 2025 paper:
         ├──test
 ```
 
-### Train on the synthetic dataset
-
-Download the [CVPRIndoor dataset](https://web.mit.edu/torralba/www/indoor.html). 
-```bash
-bash ./dist_train.sh 2 options/Restormer_sys.yml
-```
-
-### Fine-tune on the real data 
+### Train on the real data 
 ```bash
 bash ./dist_train.sh 2 options/Restormer.yml
 ```
