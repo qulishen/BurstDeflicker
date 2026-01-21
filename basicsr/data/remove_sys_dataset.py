@@ -423,12 +423,10 @@ if __name__ == "__main__":
     
     input_all = resize(input_all)
     input_all = add_flicker(input_all, average_brightness)
-    # flare_DC_offset = np.random.uniform(-0.02, 0.02)
     # input_all = transform_base(input_all)
 
     ori_img, input0_img, input1_img, input2_img = torch.split(input_all, 3, dim=0)
 
-    # input0_img = torch.clamp(input0_img + flare_DC_offset, min=0, max=1)
 
    
     torchvision.utils.save_image(input0_img, "temp.png")

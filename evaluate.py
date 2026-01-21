@@ -25,7 +25,7 @@ parser.add_argument("--input", type=str, default=None)
 parser.add_argument("--output", type=str, default=None)
 parser.add_argument("--model_type", type=str, default="Uformer")
 parser.add_argument(
-    "--model_path", type=str, default="checkpoint/flare7kpp/net_g_last.pth"
+    "--model_path", type=str, default="net_g_last.pth"
 )
 parser.add_argument("--gt", type=str, default=None)
 parser.add_argument("--mask", type=str, default=None)
