@@ -149,7 +149,7 @@ If you find this work useful, please cite:
 ```bibtex
 @inproceedings{BurstDeflicker_lishenqu,
     title={BurstDeflicker: A Benchmark Dataset for Flicker Removal in Dynamic Scenes},
-    author={Lishen, Qu and Zhihao, Liu and Shihao, Zhou and Yaqi, Luo and Hui, Zeng and Lei, Zhang and Jie, Liang and Jufeng, Yang},
+    author={Qu, Lishen and Liu, Zhihao and Zhou, Shihao and Luo, Yaqi and Liang, Jie and Zeng, Hui and Zhang, Lei and Yang, Jufeng},
     booktitle={Advances in Neural Information Processing Systems},
     year={2025}
 }
