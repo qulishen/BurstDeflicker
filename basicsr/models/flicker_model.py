@@ -5,13 +5,6 @@ from basicsr.archs import build_network
 from basicsr.losses import build_loss
 from basicsr.models.sr_model import SRModel
 from basicsr.utils import get_root_logger, imwrite, tensor2img
-from basicsr.utils.registry import MODEL_REGISTRY
-from basicsr.utils.flare_util import (
-    blend_light_source,
-    mkdir,
-    predict_flare_from_6_channel,
-    predict_flare_from_3_channel,
-)
 from basicsr.metrics import calculate_metric
 import torch
 from tqdm import tqdm
